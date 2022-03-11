@@ -351,7 +351,7 @@ nav .fa-bars{
    }
    .cta{
      padding: 15% 5%;
-   }
+   } 
    .cta h3{
        font-size: 7vw;
        line-height: 8vw;
@@ -374,4 +374,18 @@ nav .fa-bars{
    .aboy-msg {
        font-size: 15px;
    }
+}
+
+/* ---Listing page--- */
+.navbar-white {
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+}
+.navbar-white .nav-links li a {
+    color: #000;
+}
+
+.navbar-white  .register-btn{
+    background: #ff5361;
+    color: #fff;
 }
